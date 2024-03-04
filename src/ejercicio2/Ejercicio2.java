@@ -23,7 +23,7 @@ public class Ejercicio2 {
 
     // recibe la edad en años y devuelve “Adulto” o “Niño “.
     public static String devolverTipo(int edad) {
-        if (edad >= 10) {
+        if (edad >= 18) {
             return "Adulto";
         } else {
             return "Niño";

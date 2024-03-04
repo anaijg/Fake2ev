@@ -2,6 +2,11 @@ package ejercicio1;
 
 import java.util.Scanner;
 
+/**
+ * Crea una clase Ejercicio1.java que contenga un método main en el que se realizan las llamadas a métodos
+ * que consideres necesarias y muestre los resultados que se obtienen (esto lo puedes organizar como te
+ * parezca más conveniente, con tal de que se cumpla con lo que se pide)
+ */
 public class Ejercicio1 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
